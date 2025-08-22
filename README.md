@@ -1,20 +1,29 @@
 # CASA0010 Dissertation Code – He Muheng
 
-This repository contains all code, environment files, and scripts used for my MSc Dissertation project:\
+This repository contains all code, environment files, and scripts used for my MSc Dissertation project:
 **“Relationship between Transport Accessibility and Property Prices in London: A Machine Learning Approach with Socioeconomic Considerations.”**
 
 ------------------------------------------------------------------------
 
 ## ⚠️ Important Notice
 
-During development, **absolute paths** were used, and I apologize for the inconvenience this may cause.\
+During development, **absolute paths** were used, and I apologize for the inconvenience this may cause.
+
+Please execute it first after cloning：
+
+bash：
+
+git lfs install
+
+git lfs pull
+
 To ensure the project runs correctly, it is recommended to manually create the following directory on your local machine:
 
 /Users/muhenghe/Documents/BYLW
 
 Then copy the following two folders from this repository into that path:
 
--   `start` (obtained by unzipping `start.zip`)\
+-   `start` (obtained by unzipping `start.zip`)
 -   `项目初始`
 
 After that, navigate to:
