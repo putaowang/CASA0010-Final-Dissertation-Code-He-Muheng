@@ -1,0 +1,18 @@
+name: bylw
+channels: [conda-forge]
+dependencies:
+  - python=3.11
+  - geopandas
+  - osmnx
+  - shapely
+  - pyproj
+  - rtree
+  - networkx
+  - pandas
+  - numpy
+  - scikit-learn
+  - statsmodels
+  - matplotlib
+  - seaborn
+  - tqdm
+  - scipy

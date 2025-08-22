@@ -1,0 +1,30 @@
+__pycache__/
+*.pyc
+
+# 运行生成物（不入库）
+start/pythonProject2/*.csv
+start/pythonProject2/*.png
+start/pythonProject2/*.svg
+项目初始/pythonProject2/out_4_2/
+
+# env
+.env
+.DS_Store
+.Rhistory
+.Rproj.user/
+*.Rproj
+.DS_Store
+.Rhistory
+.Rproj.user/
+*.Rproj
+start/pythonProject2/
+start/pythonProject2/
+start/map data/
+.DS_Store
+.DS_Store
+start/
+start/map data/
+.DS_Store
+start/
+.DS_Store
+start/

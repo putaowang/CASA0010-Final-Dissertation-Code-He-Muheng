@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd "/Users/muhenghe/Documents/BYLW/项目初始/pythonProject2"
+python "1.hex.py"
+python "2.hex.py"
+python "3. accessibility score.py"
+python "4.sev and dwelling density.py"
+python "5. price.py"
+python "6.price2.py"
+python "7.ml1 .py"
+python "8.ml1.py"
+python "9.ml1.py"
+python "10.ml1.py"
+python "11.ml1.py"
+python "12.ml1 .py"
